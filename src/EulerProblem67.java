@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class Problem67 {
+public class EulerProblem67 {
 
     public static void main(String[] args) {
         try {
